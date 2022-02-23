@@ -1,0 +1,9 @@
+slug = "stegosaur"
+title = "Stegosaur"
+author = "Benson"
+value = 10
+description = """Many years ago, the [stegosaurs](stegosaur.jpg) roamed the planet concealing their secret data within other forms of data. Until one day, they suddenly went... EXIF-stinct!!!"""
+tags = ["stego"]
+files = ["stegosaur.jpg"]
+flag = "flag{poor_stegosaurs}"
+enabled = true
