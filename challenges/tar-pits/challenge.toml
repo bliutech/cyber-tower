@@ -1,0 +1,9 @@
+slug = "tar-pits"
+title = "Tar Pits"
+author = "Benson"
+value = 10
+description = """We dragged this [file](sludge.tar.gz) from the bottom of tar pits. See what might be HIDDEN in there."""
+tags = [ "file" ]
+files = [ "sludge.tar.gz" ]
+flag = "flag{We_F0uNd_8_10st_cOwBoY}"
+enabled = true 

@@ -1,0 +1,9 @@
+slug = "last-airbender"
+title = "The Last Airbender"
+author = "Benson"
+value = 30
+description = """The Fire Nation is attacking!!! Time to train to become the [Avatar](avatar)."""
+tags = [ "binary" ]
+files = ['avatar']
+flag = "flag{s3cr3t_tunn31_th4ough_th3_m0un1ain}"
+enabled = true

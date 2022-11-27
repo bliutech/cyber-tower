@@ -1,0 +1,10 @@
+slug = "pokemon-adventures-3"
+title = "Pokemon Adventures (3/3)"
+author = "Benson"
+value = 30
+description = """I recently have downloaded Pokemon Go and want to explore all the best gyms and PokeStops here at UCLA! However, my friend has been hiding where all of the good spots to catch Pokemon are. Can you help me find them?
+My friend just posted this [photo](pokemon-3.png) of a great spot to hang out with your Pokemon. Can you find which UCLA building my friend is standing inside? (Hint: The flag is the name of the eatery all lower case and with underscores used as spaces. The full name is THREE words. The answer must be wraped in flag{YOUR_ANSWER}.)"""
+tags = [ "OSINT" ]
+files = [ "pokemon-3.png" ]
+flag = "flag{ackerman_student_union}"
+enabled = true

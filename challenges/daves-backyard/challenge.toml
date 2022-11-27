@@ -1,0 +1,9 @@
+slug = "daves-backyard"
+title = "Dave's Backyard"
+author = "Benson"
+value = 20
+description = """Welcome to [Dave's Backyard](daves-backyard)! Dave is a cat. His neighbordhood is a 10 by 10 grid. Dave's territory is the territory within the coordinates 0 < x < 5 and 0 < y < 5. Dave wants to visit his dog buddy, Sam, who lives within the coordinates, 5 < x < 10 and 5 < y < 10. However, there is a terrible fence surrounding Dave's backyard preventing him from going directly to Sam's territory! How will dave be able to see his friend?!?!"""
+tags = ["overflow"]
+files = ["daves-backyard"]
+flag = "flag{0verf19w_tunne1}"
+enabled = true

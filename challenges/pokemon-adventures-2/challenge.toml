@@ -1,0 +1,10 @@
+slug = "pokemon-adventures-2"
+title = "Pokemon Adventures (2/3)"
+author = "Benson"
+value = 30
+description = """I recently have downloaded Pokemon Go and want to explore all the best gyms and PokeStops here at UCLA! However, my friend has been hiding where all of the good spots to catch Pokemon are. Can you help me find them?
+My friend just posted this [photo](pokemon-2.png) of a great spot to grab lunch with your Pokemon apparently. Can you find which UCLA eatery is near here? The students seem to have a cute name to call this place. (Hint: The flag is the name of the eatery all lower case and with underscores used as spaces. The full name is TWO words. The answer must be wraped in flag{YOUR_ANSWER}.)"""
+tags = [ "OSINT" ]
+files = [ "pokemon-2.png" ]
+flag = "flag{bomb_shelter}"
+enabled = true 

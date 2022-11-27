@@ -1,0 +1,10 @@
+slug = "pokemon-adventures-1"
+title = "Pokemon Adventures (1/3)"
+author = "Benson"
+value = 30
+description = """I recently have downloaded Pokemon Go and want to explore all the best gyms and PokeStops here at UCLA! However, my friend has been hiding where all of the good spots to catch Pokemon are. Can you help me find them?
+My friend just posted this [photo](pokemon-1.png) of a great spot to study and take classes. The students here... seem a little different than the rest. Can you find which UCLA school is near here? (Hint: The flag is the name of the school all lower case and with underscores used as spaces. The full name is FOUR words. The answer must be wraped in flag{YOUR_ANSWER}.)"""
+tags = [ "OSINT" ]
+files = [ "pokemon-1.png" ]
+flag = "flag{anderson_school_of_management}"
+enabled = true 

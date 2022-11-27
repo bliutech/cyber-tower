@@ -1,0 +1,9 @@
+slug = "catcall"
+title = "Cat Call"
+author = "Benson"
+value = 30
+description = """It's a lonely night... you're missing your #1 cat! Time to give her... A [CAT CALL](catcall)! Source [code](catcall.c)."""
+tags = ["overflow"]
+files = ["catcall", "catcall.c"]
+flag = "flag{act1ng_ca11y}"
+enabled = true
