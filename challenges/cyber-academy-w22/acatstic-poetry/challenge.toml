@@ -1,0 +1,9 @@
+slug = "acatstic-poetry"
+title = "Acatstic Poetry"
+author = "Benson"
+value = 20
+description = """Steganography is a lot like a [C.A.T.](cat.zip) **C**ontains secret data. **A**lternative data format. **T**ricky formatting."""
+tags = ["stego"]
+files = ["cat.zip"]
+flag = "flag{acrostic_cat_fun}"
+enabled = true
