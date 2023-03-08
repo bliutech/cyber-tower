@@ -1,0 +1,7 @@
+services:
+  whats-on-the-menu:
+    image: whats-on-the-menu
+    build: .
+    restart: always
+    ports:
+      - "8080:8080"

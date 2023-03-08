@@ -1,0 +1,7 @@
+services:
+  no-fetch:
+    image: no-fetch
+    build: .
+    restart: always
+    ports:
+      - "9090:9090"
